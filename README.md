@@ -1,6 +1,6 @@
 # WeatherApp README
 
-## This is a simple weather application that fetches weather data from the OpenWeatherMap API and displays it on the form.
+### This is a simple weather application that fetches weather data from the OpenWeatherMap API and displays it on the form.
 
 ## Requirements
 
